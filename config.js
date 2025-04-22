@@ -24,7 +24,7 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'Novel Description',
             image: './assets/color_purple_cover.jpg',
             description: 'This is where I insert a description of the novel',
             location: {
