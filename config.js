@@ -17,7 +17,7 @@ var config = {
     auto: false,
     title: 'Final Project',
     subtitle: 'Spatial Journeys across the South',
-    byline: 'Alex Greeves',
+    byline: 'Alex Greeves and Danny Lyman',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
