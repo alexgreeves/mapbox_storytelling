@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/alexgreeves/cm98v1onl002d01s88st17ucc',
+    style: 'mapbox://styles/alexgreeves/cmacugo4j008z01s88uo34zeh',
     // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoiYWxleGdyZWV2ZXMiLCJhIjoiY205OG9mODU5MDUyaTJpb280cDg2MWU4OSJ9.MbrOuSTZZwr76I4T6yoyig',
     showMarkers: false,
