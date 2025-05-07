@@ -24,9 +24,9 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'Novel Description',
+            title: 'Introduction',
             image: './assets/color_purple_cover.jpg',
-            description: 'This is where I insert a description of the novel',
+            description: 'This is where I insert a description of our project',
             location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
@@ -50,11 +50,11 @@ var config = {
                 // }
             ]
         },
-        {
+          {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'The Color Purple - Description',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -79,7 +79,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'The Color Purple - Movement',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -104,7 +104,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'The Color Purple - Analysis',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -129,7 +129,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Their Eyes Were Watching God - Description',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -154,7 +154,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Their Eyes Were Watching God - Movement',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -179,7 +179,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Their Eyes Were Watching God - Analysis',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -204,7 +204,32 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'As I Lay Dying - Description',
+            image: './assets/alice_walker_childhood_home.jpg',
+            description: 'Description of the second location.',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-one',
+            alignment: 'right',
+            hidden: false,
+            title: 'As I Lay Dying - Movement',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -229,7 +254,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'As I Lay Dying - Analysis',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -254,7 +279,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Salvage The Bones - Description',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -279,7 +304,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Salvage The Bones - Movement',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -304,7 +329,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Salvage The Bones - Analysis',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -329,7 +354,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Overall Significance/What does all this show?',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
@@ -351,7 +376,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-two',
+            id: 'Conclusion',
             alignment: 'left',
             hidden: false,
             title: 'Olinka',
