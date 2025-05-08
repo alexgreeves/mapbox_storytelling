@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Introduction',
-            image: './assets/color_purple_cover.jpg',
+            image: '',
             description: 'In Their Eyes Were Watching God, As I Lay Dying, The Color Purple, and Salvage the Bones, the physical movement of female protagonists, whether across towns, landscapes, or confined spaces, serves as a narrative mechanism through which each woman negotiates and asserts her agency. While Janie’s self-directed migrations reflect a growing autonomy in the Jim Crow South, Addie Bundren’s posthumous journey exposes the constraints placed on women’s voices and bodies even in death. In contrast, Celie’s eventual escape from domestic confinement marks her emergence into selfhood and independence, while Esch’s rootedness in Bois Sauvage reveals how agency can also be forged through resilience and survival within a fixed geography. Together, these novels reveal how Southern women’s agency is separately tied to the spaces they occupy and traverse, with physical movement acting as both a reflection of and a catalyst for personal empowerment.',
             location: {
                 center: [-90.3150946, 38.6605671],
