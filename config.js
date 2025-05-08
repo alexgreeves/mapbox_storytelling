@@ -207,7 +207,7 @@ var config = {
             hidden: false,
             title: 'As I Lay Dying - Description',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'William Faulkner’s As I Lay Dying follows the Bundren family as they travel across Mississippi to bury their mother, Addie, in her hometown. While the novel focuses on the physical movement of the family, Addie, herself, has little control over the journey, as she is dead in a coffin and only given one chapter to speak for herself. Her body is moved by the decisions of others, showing how women in the rural South often lacked agency, even after death. As Addie reflects in her singular chapter, she says: “My father said that the reason for living was to get ready to stay dead” (Faulker 164). This line reveals her disappointment with the roles imposed on her and the uselessness she feels in her existence. Unlike other female characters in Southern literature who find freedom through travel, Addie’s journey highlights how limited women’s voices and choices can be. Instead of gaining control through movement, her story reveals how patriarchal power continues to shape and silence women’s lives. -Danny Lyman,'
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -232,7 +232,7 @@ var config = {
             hidden: false,
             title: 'As I Lay Dying - Movement',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Faulkner uses the Bundren family’s journey from their rural farm in Yoknapatawpha County to the town of Jefferson, Mississippi, to highlight the limited agency of women in the South. Although the novel centers on physical movement, Addie Bundren has no control over her posthumous journey and is largely silenced, reflecting how her body and autonomy are shaped by others. Her brief, post-death narration reveals deep dissatisfaction with the roles imposed on her, but it comes too late to influence the events around her. Similarly, her daughter Dewey Dell attempts to assert control by traveling to a drugstore in Mottson to seek an abortion, but she is manipulated and ultimately denied help, reinforcing her powerlessness. Addie and Dewey Dell’s experiences across Yoknapatawpha, Mottson, and Jefferson reveal how women’s attempts at autonomy are often restricted by societal structures. -Danny Lyman',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -257,7 +257,7 @@ var config = {
             hidden: false,
             title: 'As I Lay Dying - Analysis',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Faulkner tells a story that’s all about movement, but for the women in the novel, especially Addie and Dewey Dell. That movement however, doesn’t give them freedom, it just shows how stuck they really are. Addie is the reason the family travels, but she’s dead, stuck in a coffin, and only gets one short chapter to tell her side of things. Even then, it’s too late for her to make any real impact. The novel shows Addie’s lack of agency, even in death, as her family struggles to bring her coffin to Jefferson. The trip to Jefferson isn’t just a physical journey—it reveals how women’s choices are often taken away from them. While the men in the novel keep moving forward, the women’s stories show how hard it is to escape the expectations and control of the world around them. -Danny Lyman',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
