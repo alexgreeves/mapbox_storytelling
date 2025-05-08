@@ -156,7 +156,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes Were Watching God - Movement',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'The physical movements in Janie’s life correspond closely with shifts in her personal agency and relationship dynamics. Her early life in West Florida is defined by her grandmother’s protective control, culminating in a forced marriage to Logan Killicks that prioritizes security over love. Janie’s decision to leave Logan for Joe Starks leads her to Eatonville, where she becomes the mayor’s wife and gains visibility but loses autonomy. Her voice is suppressed even as her social status rises. It is not until her third move, south to the Everglades with Tea Cake, that Janie experiences greater relational and spatial freedom. Living among migrant laborers and sharing in physical labor, she finds companionship that approaches the idealized love she once imagined. However, the freedom of this space is uncertain, as symbolized by the hurricane that displaces their lives. Janie’s final return to Eatonville, now on her own terms, signals a reentry into society as an independent woman. Each stage of her journey is marked by a growing capacity to define love and selfhood outside of societal expectations. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -181,7 +181,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes Were Watching God - Analysis',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Janie’s geographic journey functions as a metaphor for her growing sense of agency and identity. Initially, her movements are reactive—decisions made for her by others, such as her grandmother or Joe Starks. These early transitions underscore Janie’s lack of control over her life and body. However, with her move to the Everglades, Janie begins to make choices for herself, engaging in a life that, while physically demanding, offers emotional depth and reciprocity. Her relationship with Tea Cake, despite its flaws, allows her to explore love on terms closer to her own. Even the trauma of the hurricane serves to make clear her sense of self. By the time she returns to Eatonville, Janie is no longer subject to external definitions; instead, she claims her narrative. Her assertion that “you got tuh go there tuh know there” (p. 192) reinforces the idea that personal growth is both an internal and external journey—one rooted in self-discovery and shaped through movement across place and experience. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
