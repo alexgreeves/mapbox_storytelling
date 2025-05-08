@@ -379,7 +379,7 @@ var config = {
             id: 'Conclusion',
             alignment: 'left',
             hidden: false,
-            title: 'Olinka',
+            title: 'Conclusion',
             image: './assets/firestone_farm.jpg',
             description: 'Description of the Olinka people',
             location: {
