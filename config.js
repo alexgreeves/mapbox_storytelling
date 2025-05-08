@@ -81,7 +81,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple - Movement',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Walker uses the physical movements of Celie and Nettie to illustrate how mobility becomes a pathway to female agency. Celie begins her journey trapped in an abusive home in rural Georgia, her physical immobility mirroring her psychological and social confinement. However, her relationship with Shug Avery becomes the reason for change, inspiring Celie to leave Mr. ___ and establish her own home and business. This decisive move marks her transformation from passive victim to active agent of her own life. As she explores her new house with Shug, she declares with joy, “I can’t get over having a house… Look at this, I say to Shug. Look at that!” (Walker 244). This moment symbolizes her reclaiming of space and self. Meanwhile, Nettie’s departure from the South to Africa as a missionary provides another path to liberation, allowing her to forge a new identity outside the structural and racial limitations of the American South. Both sisters' geographic journeys, Celie’s inward and rooted, Nettie’s outward and global—chart their evolution towards independence, showing how movement enables them to rewrite the conditions of their lives. -Danny Lyman',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
