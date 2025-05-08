@@ -106,7 +106,8 @@ var config = {
             hidden: false,
             title: 'The Color Purple - Analysis',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Alice Walker uses the physical movement of Celie and Nettie to show how space and mobility play a key role in gaining independence and control over one's life. Celie starts in a place of oppression, trapped in an abusive marriage, where her lack of movement represents her lack of power. But as she breaks free from her husband and builds a life of her own, she moves from being controlled to being independent. This shift shows that owning one’s space can be just as empowering as leaving it. On the other hand, Nettie’s journey to Africa represents a different kind of freedom, where her relocation allows her to grow and find herself in ways that weren’t possible in the South. These two journeys highlight how the spaces women occupy, and how they move through them, are crucial to their sense of empowerment. Together, Celie’s and Nettie’s experiences show that physical movement is an important part of claiming agency in a world where women are often oppressed. -Danny Lyman'
+',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
