@@ -357,7 +357,7 @@ var config = {
             hidden: false,
             title: 'Overall Significance/What does all this show?',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'By mapping the physical movements of female protagonists across these Southern narratives, we gain deeper insight into how geography functions not just as setting, but as a critical lens for understanding women’s agency. In each novel, movement—whether expansive, restricted, or reoccuring—reflects a negotiation of power within the structures of race, gender, and class. Janie’s travels across Florida reveal her growing control over love and self-definition; Addie and Dewey Dell’s foiled journeys in Mississippi expose the limits placed on women’s voices and choices; Celie and Nettie’s contrasting migrations show how both reclaiming space and crossing borders can lead to empowerment; and Esch’s rooted resilience in Bois Sauvage demonstrates that agency can also emerge within confinement. Through spatial analysis, these stories collectively challenge the idea that freedom is always found through escape, instead showing that power can be seized through motion, stillness, survival, or return. Mapping these movements brings to light the varied ways Southern women navigate oppression, and how their paths—visible and invisible—speak to the intersections of place, body, and voice. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -382,7 +382,7 @@ var config = {
             hidden: false,
             title: 'Conclusion',
             image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
+            description: 'Ultimately, examining how female characters in Southern literature interact with space encourages us to reconsider traditional narratives of freedom, power, and progress. These stories do not simply chart physical journeys—they reshape our understanding of movement itself, showing that empowerment can be slow, stagnant, fragmented, or deeply localized. As we map the complex geographies of these women’s lives, we are reminded that agency is not a fixed destination but a process negotiated through landscape, memory, and voice. These texts compel us to listen more closely to whose stories get told, who moves and who is made to stay still, and how place continues to shape the possibilities of becoming. Through literary mapping, we begin to see not only where these women go, but how they carry the South with them in every step. -Danny Lyman',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
