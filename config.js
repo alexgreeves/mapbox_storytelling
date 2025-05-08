@@ -156,7 +156,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God - Movement',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'The physical movements in Janie’s life correspond closely with shifts in her personal agency and relationship dynamics. Her early life in West Florida is defined by her grandmother’s protective control, culminating in a forced marriage to Logan Killicks that prioritizes security over love. Janie’s decision to leave Logan for Joe Starks leads her to Eatonville, where she becomes the mayor’s wife and gains visibility but loses autonomy. Her voice is suppressed even as her social status rises. It is not until her third move, south to the Everglades with Tea Cake, that Janie experiences greater relational and spatial freedom. Living among migrant laborers and sharing in physical labor, she finds companionship that approaches the idealized love she once imagined. However, the freedom of this space is uncertain, as symbolized by the hurricane that displaces their lives. Janie’s final return to Eatonville, now on her own terms, signals a reentry into society as an independent woman. Each stage of her journey is marked by a growing capacity to define love and selfhood outside of societal expectations. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
@@ -181,7 +181,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God - Analysis',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'Janie’s geographic journey functions as a metaphor for her growing sense of agency and identity. Initially, her movements are reactive—decisions made for her by others, such as her grandmother or Joe Starks. These early transitions underscore Janie’s lack of control over her life and body. However, with her move to the Everglades, Janie begins to make choices for herself, engaging in a life that, while physically demanding, offers emotional depth and reciprocity. Her relationship with Tea Cake, despite its flaws, allows her to explore love on terms closer to her own. Even the trauma of the hurricane serves to make clear her sense of self. By the time she returns to Eatonville, Janie is no longer subject to external definitions; instead, she claims her narrative. Her assertion that “you got tuh go there tuh know there” (p. 192) reinforces the idea that personal growth is both an internal and external journey—one rooted in self-discovery and shaped through movement across place and experience. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
@@ -231,7 +231,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'As I Lay Dying - Movement',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'Faulkner uses the Bundren family’s journey from their rural farm in Yoknapatawpha County to the town of Jefferson, Mississippi, to highlight the limited agency of women in the South. Although the novel centers on physical movement, Addie Bundren has no control over her posthumous journey and is largely silenced, reflecting how her body and autonomy are shaped by others. Her brief, post-death narration reveals deep dissatisfaction with the roles imposed on her, but it comes too late to influence the events around her. Similarly, her daughter Dewey Dell attempts to assert control by traveling to a drugstore in Mottson to seek an abortion, but she is manipulated and ultimately denied help, reinforcing her powerlessness. Addie and Dewey Dell’s experiences across Yoknapatawpha, Mottson, and Jefferson reveal how women’s attempts at autonomy are often restricted by societal structures. -Danny Lyman',
             location: {
                 center: [-83.5573651, 32.5573651], 
@@ -256,7 +256,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'As I Lay Dying - Analysis',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'Faulkner tells a story that’s all about movement, but for the women in the novel, especially Addie and Dewey Dell. That movement however, doesn’t give them freedom, it just shows how stuck they really are. Addie is the reason the family travels, but she’s dead, stuck in a coffin, and only gets one short chapter to tell her side of things. Even then, it’s too late for her to make any real impact. The novel shows Addie’s lack of agency, even in death, as her family struggles to bring her coffin to Jefferson. The trip to Jefferson isn’t just a physical journey—it reveals how women’s choices are often taken away from them. While the men in the novel keep moving forward, the women’s stories show how hard it is to escape the expectations and control of the world around them. -Danny Lyman',
             location: {
                 center: [-83.5573651, 32.5573651], 
@@ -306,7 +306,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Salvage The Bones - Movement',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'While Ward’s story does not follow a wide-ranging physical journey, it traces constant and urgent movement within a single, precarious space. The story remains rooted in one geographic location, but through the shifting terrain of junkyards, woods, and flood zones. Esch and her brothers shift repeatedly between home and survival spaces—digging trenches, scavenging supplies, and eventually fleeing floodwaters. These short, reactive movements mirror the instability of their socioeconomic condition and the environmental uncertainties that they endure. Esch’s internal transformation parallels this spatial urgency: her movement is not toward escape, but toward recognition of her own strength. Esch declares, “China will bark and call me sister. In the star suffocated sky, there is a great waiting silence. She will know that I’m a mother” (Ward 258). In this moment, Ward affirms that even within confinement and crisis, movement, both physical and emotional, can foster the emergence of female agency. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
@@ -331,7 +331,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Salvage The Bones - Analysis',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'Ward’s decision to center her story in a single, marginalized location allows her to explore how confinement and catastrophe shape agency differently than in stories of outward migration. Bois Sauvage, though physically limited, becomes the reason in which Esch asserts her voice and identity. The storm does not transport her elsewhere but transforms the space around her, forcing her to confront her pregnancy, her grief, and her fractured family bonds within the same terrain. Unlike narratives in which women gain agency by leaving oppressive environments, Esch finds strength by staying and enduring. Her voice, sharpened through both mythic imagination and physical survival, becomes her tool of resistance. Ward reframes movement not as a means of escape but as a response to crisis—showing that agency can emerge even when there is nowhere else to go. Through Esch, Salvage the Bones redefines what it means for a Southern woman to move, to resist, and to endure. -Alex Greeves ',
             location: {
                 center: [-83.5573651, 32.5573651], 
@@ -356,7 +356,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Overall Significance/What does all this show?',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'By mapping the physical movements of female protagonists across these Southern narratives, we gain deeper insight into how geography functions not just as setting, but as a critical lens for understanding women’s agency. In each novel, movement—whether expansive, restricted, or reoccuring—reflects a negotiation of power within the structures of race, gender, and class. Janie’s travels across Florida reveal her growing control over love and self-definition; Addie and Dewey Dell’s foiled journeys in Mississippi expose the limits placed on women’s voices and choices; Celie and Nettie’s contrasting migrations show how both reclaiming space and crossing borders can lead to empowerment; and Esch’s rooted resilience in Bois Sauvage demonstrates that agency can also emerge within confinement. Through spatial analysis, these stories collectively challenge the idea that freedom is always found through escape, instead showing that power can be seized through motion, stillness, survival, or return. Mapping these movements brings to light the varied ways Southern women navigate oppression, and how their paths—visible and invisible—speak to the intersections of place, body, and voice. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
