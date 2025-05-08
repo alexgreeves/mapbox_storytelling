@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple - Description',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: './assets/color_purple_cover.jpg',
             description: 'Alice Walker’s The Color Purple tells the story of Celie, a Black woman in early 20th-century Georgia, whose journey from silence and oppression to independence and self-worth is closely tied to the spaces she lives in and eventually escapes. At the start of the novel, Celie is confined within abusive domestic environments that limit her voice and autonomy. Over time, however, her physical movement, first emotionally through her letters and later, literally, as she leaves her husband’s home, reflects her growing sense of agency. Her eventual ownership of a home and business marks a powerful shift from confinement to control. Unlike other female protagonists who find freedom through wandering, Celie’s journey shows that reclaiming one’s space can be just as empowering as leaving it. Her transformation illustrates how physical and emotional movement work together to reshape her identity and give her the power to define her own life. -Danny Lyman.',
             location: {
                 center: [-83.5573651, 32.5573651], 
