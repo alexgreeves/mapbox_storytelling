@@ -282,7 +282,7 @@ var config = {
             hidden: false,
             title: 'Salvage The Bones - Description',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Jesmyn Ward’s Salvage the Bones is a powerful novel that follows twelve days in the life of Esch Batiste, a pregnant teenager living in the fictional rural town of Bois Sauvage, Mississippi, as Hurricane Katrina approaches. Told entirely from Esch’s perspective, the narrative immerses the reader in a world shaped by poverty, isolation, and environmental vulnerability. Ward conveys the uncertainty of life in the modern Black rural South. Esch’s voice—lyrical, raw, and resilient—guides us through a collapsing world where survival is both a physical and emotional struggle. The novel’s tight timeline and spatial confinement reveal how Esch’s growth is intimately tied to her relationship with space and movement within the boundaries of Bois Sauvage, offering a sharp contrast to traditional Southern narratives of expansive journey and escape. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -307,7 +307,7 @@ var config = {
             hidden: false,
             title: 'Salvage The Bones - Movement',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'While Ward’s story does not follow a wide-ranging physical journey, it traces constant and urgent movement within a single, precarious space. The story remains rooted in one geographic location, but through the shifting terrain of junkyards, woods, and flood zones. Esch and her brothers shift repeatedly between home and survival spaces—digging trenches, scavenging supplies, and eventually fleeing floodwaters. These short, reactive movements mirror the instability of their socioeconomic condition and the environmental uncertainties that they endure. Esch’s internal transformation parallels this spatial urgency: her movement is not toward escape, but toward recognition of her own strength. Esch declares, “China will bark and call me sister. In the star suffocated sky, there is a great waiting silence. She will know that I’m a mother” (Ward 258). In this moment, Ward affirms that even within confinement and crisis, movement, both physical and emotional, can foster the emergence of female agency. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -332,7 +332,7 @@ var config = {
             hidden: false,
             title: 'Salvage The Bones - Analysis',
             image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            description: 'Ward’s decision to center her story in a single, marginalized location allows her to explore how confinement and catastrophe shape agency differently than in stories of outward migration. Bois Sauvage, though physically limited, becomes the reason in which Esch asserts her voice and identity. The storm does not transport her elsewhere but transforms the space around her, forcing her to confront her pregnancy, her grief, and her fractured family bonds within the same terrain. Unlike narratives in which women gain agency by leaving oppressive environments, Esch finds strength by staying and enduring. Her voice, sharpened through both mythic imagination and physical survival, becomes her tool of resistance. Ward reframes movement not as a means of escape but as a response to crisis—showing that agency can emerge even when there is nowhere else to go. Through Esch, Salvage the Bones redefines what it means for a Southern woman to move, to resist, and to endure. -Alex Greeves ',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
