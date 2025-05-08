@@ -131,7 +131,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God - Description',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '.https://www.arts.gov/sites/default/files/Their%20Eyes%20Were%20Watching%20God.jpg',
             description: ' Zora Neale Hurston’s Their Eyes Were Watching God stands as following the life of Janie Crawford, a Black woman in early 20th-century Florida whose personal growth is deeply tied to her movement across physical landscapes. From her grandmother’s rural home in West Florida, to Eatonville, and finally to the Everglades and back, Janie’s journey reflects a gradual assertion of autonomy in the face of restrictive gender and racial norms. Each location signals a different stage in her evolving sense of self: the imposition of duty, the stifling expectations of marriage, and finally, the pursuit of emotional fulfillment. Hurston captures this progression with vivid attention to Southern geography, embedding Janie’s transformation in specific regional and cultural settings. As Janie affirms upon her return to Eatonville, “Ah done been tuh de horizon and back and now Ah kin set heah in mah house and live by comparisons” (p. 191), articulating that she has been shaped not only by experience but also by the places through which she has traveled. -Alex Greeves',
             location: {
                 center: [-83.5573651, 32.5573651], 
