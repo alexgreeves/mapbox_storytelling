@@ -80,7 +80,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple - Movement',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'Walker uses the physical movements of Celie and Nettie to illustrate how mobility becomes a pathway to female agency. Celie begins her journey trapped in an abusive home in rural Georgia, her physical immobility mirroring her psychological and social confinement. However, her relationship with Shug Avery becomes the reason for change, inspiring Celie to leave Mr. ___ and establish her own home and business. This decisive move marks her transformation from passive victim to active agent of her own life. As she explores her new house with Shug, she declares with joy, “I can’t get over having a house… Look at this, I say to Shug. Look at that!” (Walker 244). This moment symbolizes her reclaiming of space and self. Meanwhile, Nettie’s departure from the South to Africa as a missionary provides another path to liberation, allowing her to forge a new identity outside the structural and racial limitations of the American South. Both sisters\' geographic journeys, Celie’s inward and rooted, Nettie’s outward and global—chart their evolution towards independence, showing how movement enables them to rewrite the conditions of their lives. -Danny Lyman',
             location: {
                 center: [-10.335151559799025, 6.248908306766154], 
@@ -105,7 +105,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple - Analysis',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'Alice Walker uses the physical movement of Celie and Nettie to show how space and mobility play a key role in gaining independence and control over one\'s life. Celie starts in a place of oppression, trapped in an abusive marriage, where her lack of movement represents her lack of power. But as she breaks free from her husband and builds a life of her own, she moves from being controlled to being independent. This shift shows that owning one’s space can be just as empowering as leaving it. On the other hand, Nettie’s journey to Africa represents a different kind of freedom, where her relocation allows her to grow and find herself in ways that weren’t possible in the South. These two journeys highlight how the spaces women occupy, and how they move through them, are crucial to their sense of empowerment. Together, Celie’s and Nettie’s experiences show that physical movement is an important part of claiming agency in a world where women are often oppressed. -Danny Lyman',
             location: {
                 center: [-83.5573651, 32.5573651], 
@@ -205,7 +205,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'As I Lay Dying - Description',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'William Faulkner’s As I Lay Dying follows the Bundren family as they travel across Mississippi to bury their mother, Addie, in her hometown. While the novel focuses on the physical movement of the family, Addie, herself, has little control over the journey, as she is dead in a coffin and only given one chapter to speak for herself. Her body is moved by the decisions of others, showing how women in the rural South often lacked agency, even after death. As Addie reflects in her singular chapter, she says: “My father said that the reason for living was to get ready to stay dead” (Faulker 164). This line reveals her disappointment with the roles imposed on her and the uselessness she feels in her existence. Unlike other female characters in Southern literature who find freedom through travel, Addie’s journey highlights how limited women’s voices and choices can be. Instead of gaining control through movement, her story reveals how patriarchal power continues to shape and silence women’s lives. -Danny Lyman',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
