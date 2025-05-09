@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Introduction',
-            image: '',
+            image: 'https://biblioklept.org/wp-content/uploads/2022/04/screenshot-2022-04-15-1.44.14-pm.png?w=739',
             description: 'In Their Eyes Were Watching God, As I Lay Dying, The Color Purple, and Salvage the Bones, the physical movement of female protagonists, whether across towns, landscapes, or confined spaces, serves as a narrative mechanism through which each woman negotiates and asserts her agency. While Janie’s self-directed migrations reflect a growing autonomy in the Jim Crow South, Addie Bundren’s posthumous journey exposes the constraints placed on women’s voices and bodies even in death. In contrast, Celie’s eventual escape from domestic confinement marks her emergence into selfhood and independence, while Esch’s rootedness in Bois Sauvage reveals how agency can also be forged through resilience and survival within a fixed geography. Together, these novels reveal how Southern women’s agency is separately tied to the spaces they occupy and traverse, with physical movement acting as both a reflection of and a catalyst for personal empowerment.',
             location: {
                 center: [-90.3150946, 38.6605671],
@@ -205,7 +205,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'As I Lay Dying - Description',
-            image: '',
+            image: 'https://images.penguinrandomhouse.com/cover/9780679732259',
             description: 'William Faulkner’s As I Lay Dying follows the Bundren family as they travel across Mississippi to bury their mother, Addie, in her hometown. While the novel focuses on the physical movement of the family, Addie, herself, has little control over the journey, as she is dead in a coffin and only given one chapter to speak for herself. Her body is moved by the decisions of others, showing how women in the rural South often lacked agency, even after death. As Addie reflects in her singular chapter, she says: “My father said that the reason for living was to get ready to stay dead” (Faulker 164). This line reveals her disappointment with the roles imposed on her and the uselessness she feels in her existence. Unlike other female characters in Southern literature who find freedom through travel, Addie’s journey highlights how limited women’s voices and choices can be. Instead of gaining control through movement, her story reveals how patriarchal power continues to shape and silence women’s lives. -Danny Lyman',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
@@ -280,7 +280,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Salvage The Bones - Description',
-            image: '',
+            image: 'https://m.media-amazon.com/images/I/91qUGKmdYzL.jpg',
             description: 'Jesmyn Ward’s Salvage the Bones is a powerful novel that follows twelve days in the life of Esch Batiste, a pregnant teenager living in the fictional rural town of Bois Sauvage, Mississippi, as Hurricane Katrina approaches. Told entirely from Esch’s perspective, the narrative immerses the reader in a world shaped by poverty, isolation, and environmental vulnerability. Ward conveys the uncertainty of life in the modern Black rural South. Esch’s voice—lyrical, raw, and resilient—guides us through a collapsing world where survival is both a physical and emotional struggle. The novel’s tight timeline and spatial confinement reveal how Esch’s growth is intimately tied to her relationship with space and movement within the boundaries of Bois Sauvage, offering a sharp contrast to traditional Southern narratives of expansive journey and escape. -Alex Greeves',
             location: {
                 center: [-89.26344602946764, 30.37877669386771], 
@@ -380,7 +380,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Conclusion',
-            image: './assets/firestone_farm.jpg',
+            image: 'https://southernspaces.org/app/uploads/2019/07/mackethan-pastoralscene.jpg',
             description: 'Ultimately, examining how female characters in Southern literature interact with space encourages us to reconsider traditional narratives of freedom, power, and progress. These stories do not simply chart physical journeys—they reshape our understanding of movement itself, showing that empowerment can be slow, stagnant, fragmented, or deeply localized. As we map the complex geographies of these women’s lives, we are reminded that agency is not a fixed destination but a process negotiated through landscape, memory, and voice. These texts compel us to listen more closely to whose stories get told, who moves and who is made to stay still, and how place continues to shape the possibilities of becoming. Through literary mapping, we begin to see not only where these women go, but how they carry the South with them in every step. -Danny Lyman',
             location: {
                 center: [-78,38], 
