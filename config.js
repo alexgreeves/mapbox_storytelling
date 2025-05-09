@@ -108,7 +108,7 @@ var config = {
             image: '',
             description: 'Alice Walker uses the physical movement of Celie and Nettie to show how space and mobility play a key role in gaining independence and control over one\'s life. Celie starts in a place of oppression, trapped in an abusive marriage, where her lack of movement represents her lack of power. But as she breaks free from her husband and builds a life of her own, she moves from being controlled to being independent. This shift shows that owning one’s space can be just as empowering as leaving it. On the other hand, Nettie’s journey to Africa represents a different kind of freedom, where her relocation allows her to grow and find herself in ways that weren’t possible in the South. These two journeys highlight how the spaces women occupy, and how they move through them, are crucial to their sense of empowerment. Together, Celie’s and Nettie’s experiences show that physical movement is an important part of claiming agency in a world where women are often oppressed. -Danny Lyman',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-83.5573651,32.5573651], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -133,7 +133,7 @@ var config = {
             image: 'https://www.arts.gov/sites/default/files/Their%20Eyes%20Were%20Watching%20God.jpg',
             description: ' Zora Neale Hurston’s Their Eyes Were Watching God stands as following the life of Janie Crawford, a Black woman in early 20th-century Florida whose personal growth is deeply tied to her movement across physical landscapes. From her grandmother’s rural home in West Florida, to Eatonville, and finally to the Everglades and back, Janie’s journey reflects a gradual assertion of autonomy in the face of restrictive gender and racial norms. Each location signals a different stage in her evolving sense of self: the imposition of duty, the stifling expectations of marriage, and finally, the pursuit of emotional fulfillment. Hurston captures this progression with vivid attention to Southern geography, embedding Janie’s transformation in specific regional and cultural settings. As Janie affirms upon her return to Eatonville, “Ah done been tuh de horizon and back and now Ah kin set heah in mah house and live by comparisons” (p. 191), articulating that she has been shaped not only by experience but also by the places through which she has traveled. -Alex Greeves',
             location: {
-                center: [-81.39224619001222, 28.54026337989474], 
+                center: [-81.39224619001222,28.54026337989474], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -158,7 +158,7 @@ var config = {
             image: '',
             description: 'The physical movements in Janie’s life correspond closely with shifts in her personal agency and relationship dynamics. Her early life in West Florida is defined by her grandmother’s protective control, culminating in a forced marriage to Logan Killicks that prioritizes security over love. Janie’s decision to leave Logan for Joe Starks leads her to Eatonville, where she becomes the mayor’s wife and gains visibility but loses autonomy. Her voice is suppressed even as her social status rises. It is not until her third move, south to the Everglades with Tea Cake, that Janie experiences greater relational and spatial freedom. Living among migrant laborers and sharing in physical labor, she finds companionship that approaches the idealized love she once imagined. However, the freedom of this space is uncertain, as symbolized by the hurricane that displaces their lives. Janie’s final return to Eatonville, now on her own terms, signals a reentry into society as an independent woman. Each stage of her journey is marked by a growing capacity to define love and selfhood outside of societal expectations. -Alex Greeves',
             location: {
-                center: [-80.03213, 26.43352], 
+                center: [-80.03213,26.43352], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -183,7 +183,7 @@ var config = {
             image: '',
             description: 'Janie’s geographic journey functions as a metaphor for her growing sense of agency and identity. Initially, her movements are reactive—decisions made for her by others, such as her grandmother or Joe Starks. These early transitions underscore Janie’s lack of control over her life and body. However, with her move to the Everglades, Janie begins to make choices for herself, engaging in a life that, while physically demanding, offers emotional depth and reciprocity. Her relationship with Tea Cake, despite its flaws, allows her to explore love on terms closer to her own. Even the trauma of the hurricane serves to make clear her sense of self. By the time she returns to Eatonville, Janie is no longer subject to external definitions; instead, she claims her narrative. Her assertion that “you got tuh go there tuh know there” (p. 192) reinforces the idea that personal growth is both an internal and external journey—one rooted in self-discovery and shaped through movement across place and experience. -Alex Greeves',
             location: {
-                center: [-81.38643808791495, 28.618579170446417], 
+                center: [-81.38643808791495,28.618579170446417], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -208,7 +208,7 @@ var config = {
             image: 'https://images.penguinrandomhouse.com/cover/9780679732259',
             description: 'William Faulkner’s As I Lay Dying follows the Bundren family as they travel across Mississippi to bury their mother, Addie, in her hometown. While the novel focuses on the physical movement of the family, Addie, herself, has little control over the journey, as she is dead in a coffin and only given one chapter to speak for herself. Her body is moved by the decisions of others, showing how women in the rural South often lacked agency, even after death. As Addie reflects in her singular chapter, she says: “My father said that the reason for living was to get ready to stay dead” (Faulker 164). This line reveals her disappointment with the roles imposed on her and the uselessness she feels in her existence. Unlike other female characters in Southern literature who find freedom through travel, Addie’s journey highlights how limited women’s voices and choices can be. Instead of gaining control through movement, her story reveals how patriarchal power continues to shape and silence women’s lives. -Danny Lyman',
             location: {
-                center: [-89.48848661057376, 34.28249827482276], 
+                center: [-89.48848661057376,34.28249827482276], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -233,7 +233,7 @@ var config = {
             image: '',
             description: 'Faulkner uses the Bundren family’s journey from their rural farm in Yoknapatawpha County to the town of Jefferson, Mississippi, to highlight the limited agency of women in the South. Although the novel centers on physical movement, Addie Bundren has no control over her posthumous journey and is largely silenced, reflecting how her body and autonomy are shaped by others. Her brief, post-death narration reveals deep dissatisfaction with the roles imposed on her, but it comes too late to influence the events around her. Similarly, her daughter Dewey Dell attempts to assert control by traveling to a drugstore in Mottson to seek an abortion, but she is manipulated and ultimately denied help, reinforcing her powerlessness. Addie and Dewey Dell’s experiences across Yoknapatawpha, Mottson, and Jefferson reveal how women’s attempts at autonomy are often restricted by societal structures. -Danny Lyman',
             location: {
-                center: [-89.49712705893592, 34.28822352093646], 
+                center: [-89.49712705893592,34.28822352093646], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -258,7 +258,7 @@ var config = {
             image: '',
             description: 'Faulkner tells a story that’s all about movement, but for the women in the novel, especially Addie and Dewey Dell. That movement however, doesn’t give them freedom, it just shows how stuck they really are. Addie is the reason the family travels, but she’s dead, stuck in a coffin, and only gets one short chapter to tell her side of things. Even then, it’s too late for her to make any real impact. The novel shows Addie’s lack of agency, even in death, as her family struggles to bring her coffin to Jefferson. The trip to Jefferson isn’t just a physical journey—it reveals how women’s choices are often taken away from them. While the men in the novel keep moving forward, the women’s stories show how hard it is to escape the expectations and control of the world around them. -Danny Lyman',
             location: {
-                center: [-89.51788515537622, 34.36817121721822], 
+                center: [-89.51788515537622,34.36817121721822], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -283,7 +283,7 @@ var config = {
             image: 'https://m.media-amazon.com/images/I/91qUGKmdYzL.jpg',
             description: 'Jesmyn Ward’s Salvage the Bones is a powerful novel that follows twelve days in the life of Esch Batiste, a pregnant teenager living in the fictional rural town of Bois Sauvage, Mississippi, as Hurricane Katrina approaches. Told entirely from Esch’s perspective, the narrative immerses the reader in a world shaped by poverty, isolation, and environmental vulnerability. Ward conveys the uncertainty of life in the modern Black rural South. Esch’s voice—lyrical, raw, and resilient—guides us through a collapsing world where survival is both a physical and emotional struggle. The novel’s tight timeline and spatial confinement reveal how Esch’s growth is intimately tied to her relationship with space and movement within the boundaries of Bois Sauvage, offering a sharp contrast to traditional Southern narratives of expansive journey and escape. -Alex Greeves',
             location: {
-                center: [-89.26344602946764, 30.37877669386771], 
+                center: [-89.26344602946764,30.37877669386771], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -308,7 +308,7 @@ var config = {
             image: '',
             description: 'While Ward’s story does not follow a wide-ranging physical journey, it traces constant and urgent movement within a single, precarious space. The story remains rooted in one geographic location, but through the shifting terrain of junkyards, woods, and flood zones. Esch and her brothers shift repeatedly between home and survival spaces—digging trenches, scavenging supplies, and eventually fleeing floodwaters. These short, reactive movements mirror the instability of their socioeconomic condition and the environmental uncertainties that they endure. Esch’s internal transformation parallels this spatial urgency: her movement is not toward escape, but toward recognition of her own strength. Esch declares, “China will bark and call me sister. In the star suffocated sky, there is a great waiting silence. She will know that I’m a mother” (Ward 258). In this moment, Ward affirms that even within confinement and crisis, movement, both physical and emotional, can foster the emergence of female agency. -Alex Greeves',
             location: {
-                center: [-89.26848521528085, 30.401175819706324], 
+                center: [-89.26848521528085,30.401175819706324], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -333,7 +333,7 @@ var config = {
             image: '',
             description: 'Ward’s decision to center her story in a single, marginalized location allows her to explore how confinement and catastrophe shape agency differently than in stories of outward migration. Bois Sauvage, though physically limited, becomes the reason in which Esch asserts her voice and identity. The storm does not transport her elsewhere but transforms the space around her, forcing her to confront her pregnancy, her grief, and her fractured family bonds within the same terrain. Unlike narratives in which women gain agency by leaving oppressive environments, Esch finds strength by staying and enduring. Her voice, sharpened through both mythic imagination and physical survival, becomes her tool of resistance. Ward reframes movement not as a means of escape but as a response to crisis—showing that agency can emerge even when there is nowhere else to go. Through Esch, Salvage the Bones redefines what it means for a Southern woman to move, to resist, and to endure. -Alex Greeves ',
             location: {
-                center: [-89.2676805526253, 30.403299510701547], 
+                center: [-89.2676805526253,30.403299510701547], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
