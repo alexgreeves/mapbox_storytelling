@@ -75,7 +75,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-two',
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple - Movement',
@@ -100,7 +100,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-three',
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple - Analysis',
@@ -125,7 +125,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-four',
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God - Description',
@@ -150,7 +150,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-five',
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God - Movement',
@@ -175,7 +175,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-six',
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God - Analysis',
@@ -200,7 +200,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-seven',
             alignment: 'right',
             hidden: false,
             title: 'As I Lay Dying - Description',
@@ -225,7 +225,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-one',
+            id: 'chapter-eight',
             alignment: 'right',
             hidden: false,
             title: 'As I Lay Dying - Movement',
@@ -250,12 +250,12 @@ var config = {
             onChapterExit: []
         },
           {
-            id: 'chapter-one',
+            id: 'chapter-nine',
             alignment: 'right',
             hidden: false,
             title: 'As I Lay Dying - Analysis',
             image: '',
-            description: 'Faulkner tells a story that’s all about a slow, unsettling journey, focusing on the restrictions and control of Addie and Dewey Dell. The movement in this novel doesn't give them freedom, it just shows how stuck they really are. Addie is the reason the family travels, but she’s dead, stuck in a coffin, and only gets one short chapter to tell her side of things. Even then, it’s too late for her to make any real impact. The novel shows Addie’s lack of agency, even in death, as her family struggles to bring her coffin to Jefferson. The trip to Jefferson isn’t just a physical journey, as it subtly reveals how women’s choices are often taken away from them. While the men in the novel keep moving forward, the women’s stories show how hard it is to escape the expectations and control of the world around them. -Danny Lyman',
+            description: 'Faulkner tells a story that’s all about a slow, unsettling journey, focusing on the restrictions and control of Addie and Dewey Dell. The movement in this novel doesn\'t give them freedom, it just shows how stuck they really are. Addie is the reason the family travels, but she’s dead, stuck in a coffin, and only gets one short chapter to tell her side of things. Even then, it’s too late for her to make any real impact. The novel shows Addie’s lack of agency, even in death, as her family struggles to bring her coffin to Jefferson. The trip to Jefferson isn’t just a physical journey, as it subtly reveals how women’s choices are often taken away from them. While the men in the novel keep moving forward, the women\’s stories show how hard it is to escape the expectations and control of the world around them. -Danny Lyman',
             location: {
                 center: [-89.51788515537622,34.36817121721822], 
                 zoom: 6.5,
